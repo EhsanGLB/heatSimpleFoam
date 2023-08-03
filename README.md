@@ -1,5 +1,5 @@
 # heatSimpleFoam
-This is a solver for forced convection heat transfer based on foam-extend-4.1.
+This is a solver for steady forced convection heat transfer based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
