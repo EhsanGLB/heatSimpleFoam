@@ -30,7 +30,7 @@ Description
     and Tukovic.
 
 Author
-    Hrvoje Jasak, Wikki Ltd.  All rights reserved
+    Ehsan Golab, SUT. All rights reserved.
 
 \*---------------------------------------------------------------------------*/
 
