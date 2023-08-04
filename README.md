@@ -1,11 +1,14 @@
 # heatSimpleFoam
 This is a solver for steady forced convection heat transfer written based on foam-extend-4.1.
 
-
 ## Mathematical Relationships
+ $$ \nabla . U = 0 $$
+
+$$ {(U . \nabla) U} = - {1 \over\rho} \nabla p + \nu \nabla . {\nabla U} $$
+
 $$ {U . \nabla T} = \alpha {\nabla}^2 T $$
 
-Which $U$, $T$, and $\alpha$ are velocity vector, temperature, and thermal diffusivity, respectively.
+Which $U$, $p$, and $T$, are velocity vector, pressure, and temperature, respectively. And $\rho$, $\nu$, and $\alpha$ are density, kinematic viscosity, and thermal diffusivity, respectively.
 
 
 ## Installation
