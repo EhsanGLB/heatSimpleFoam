@@ -24,7 +24,7 @@ cd ../case
 ## Getting Started
 1. First way
 ```bash
-blockMEsh
+blockMesh
 heatSimpleFoam
 ```
 
